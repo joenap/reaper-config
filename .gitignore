@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Track these
+!.gitignore
+!reaper.ini
+!reaper-fxtags.ini
+!reaper-mouse.ini
+!KeyMaps/
+!KeyMaps/**
